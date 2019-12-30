@@ -1,4 +1,4 @@
-layout: #post
+layout: post
 title: proyek dsd ++++
 ---
 
