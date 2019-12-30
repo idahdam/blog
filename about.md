@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Tentang
+permalink: /tentang/
 ---
 
-Some information about you!
+Hai semua! Kenalin, Hadi, 1999. Blog ini akan berisi projek yang ke depannya akan dilakukan hehehe
 
-### More Information
+### Kontak aing
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[instagram](https://instagram.com/idahdam)
+[medium](medium.com/@topengfavoritku)
