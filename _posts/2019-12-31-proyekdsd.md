@@ -11,7 +11,7 @@ Pada tanggal 30 Desember 2019, gua dan kelompok DSD yang terdiri Suhe, Glory, da
 
 ![rangkaian](/images/rangkaian.jpg "Rangkaian DSD")
 
-Rangkaian clock menggunakan astable multivibrator dengan kombinasi resistor 680K dan 100K juga kapastior 1uF dan 10nF. _Duty cycle_ yang didapat di atas 52.8%
+Rangkaian clock menggunakan astable multivibrator dengan kombinasi resistor 680K dan 100K juga kapasitor 1uF dan 10nF. _Duty cycle_ yang didapat di atas 52.8%
 
 Fitur yang ingin gua tambahkan di sini adalah:
 
