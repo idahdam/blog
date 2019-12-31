@@ -29,7 +29,7 @@ kali ini gua pengen bikin rangkaian digital pertama untuk lampu merah/hijau. Di 
 
 ![rangkaian lampu hijau/merah](/images/oklol.jpg "kalo gua nulis ini kalian baca ga ya? harus hover mouse dulu woi")
 
-Rangkaian ini dibuat menggunakan 4 D flipflop (menggunakan Karnaugh Map 4x4) dengan BCD, sehingga 10-15 merupakan _don't care_. Oh ya, adanya _logic probe_ di kiri bawah itu buat ngecek pulse yang keluar tuh bener dari 0100 ke 0000 atau tidak ya, gengs.
+Rangkaian ini dibuat menggunakan 4 D flipflop (menggunakan Karnaugh Map 4x4) dengan BCD, sehingga 10-15 merupakan _don't care_. Oh ya, adanya _logic probe_ di kiri bawah itu buat ngecek pulse yang keluar tuh bener dari 0100 ke 0000 atau tidak ya, gengs. Di sini juga gua menggunakan _7 Segment Display_ dengan _Common Anode_.
 
 
 
