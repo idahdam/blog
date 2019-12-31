@@ -18,4 +18,5 @@ Fitur yang ingin gua tambahkan di sini adalah:
 1. _Countdown_ 16 ke 0
 2. Lampu kuning yang juga menyala ketika lampu hijau akan menyala dan sebaliknya
 3. _Clock_ 1Hz (bener-bener 1Hz kondisi ideal pake pulse bawaan Proteus)
-4. 
+4. Untuk perempatan jalan :)
+5. runningtext karena nggak terbatas biaya yang bisa dipakai HAHAHAHA 
