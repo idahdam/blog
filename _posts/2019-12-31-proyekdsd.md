@@ -21,9 +21,11 @@ Fitur yang ingin gua tambahkan di sini adalah:
 4. Untuk perempatan jalan :)
 5. text saat lampu merah karena nggak terbatas biaya yang bisa dipakai HAHAHAHA 
 
-## 1. Countdown yang berbeda per lampu
+## 1. Countdown yang berbeda per lampu (31 Desember 2019)
 
 kali ini gua pengen bikin rangkaian digital pertama untuk lampu merah/hijau. Di sini, gua membuat rangkaian _countdown_ 50 detik menggunakan D flip-flop dan counter 74192 (karena saya malas membuat counter JK flipflop hehehe). Ini skematik sementara untuk rangkaian counter down 50 detik.
 
-![rangkaian lampu hijau/merah](/images/oklol.bmp "kalo gua nulis ini kalian baca ga ya? harus hover mouse dulu woi")
+![rangkaian lampu hijau/merah](/images/oklol.jpg "kalo gua nulis ini kalian baca ga ya? harus hover mouse dulu woi")
+
+rangkaian ini dibuat menggunakan 4 D flipflop (menggunakan Karnaugh Map 4x4) dengan BCD, sehingga 10-15 merupakan _don't care._
 
