@@ -23,6 +23,9 @@ Fitur yang ingin gua tambahkan di sini adalah:
 4. Untuk perempatan jalan :)
 5. text saat lampu merah karena nggak terbatas biaya yang bisa dipakai HAHAHAHA 
 
+> Peringatan
+>> Proteus ini nggak memperhitungkan arus SEBENARNYA yang melalui rangkaian ataupun IC. Kalau kalian tetap ingin mengaplikasikan proyek ini, kalian tetep harus menggunakan multimeter, resistor, serta datasheet untuk memastikan nggak ada arus yang melewati sebuah rangkaian melewati kapasitasnya. trims.
+
 ## 1. Countdown yang berbeda per lampu (31 Desember 2019)
 
 kali ini gua pengen bikin rangkaian digital pertama untuk lampu merah/hijau. Di sini, gua membuat rangkaian _countdown_ 50 detik (49 ke 0, lupa eh bikin dari 50 jadi beda :( ) menggunakan D flip-flop dan counter 74192 (karena saya malas membuat counter JK flipflop hehehe). Ini skematik sementara untuk rangkaian counter down 50 detik.
