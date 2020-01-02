@@ -30,7 +30,7 @@ Sejauh ini, rangkaian terakhir (1 Desember 2019) udah sampe sini:
 > Peringatan
 >> Proteus ini nggak memperhitungkan arus SEBENARNYA yang melalui rangkaian ataupun IC. Kalau kalian tetap ingin mengaplikasikan proyek ini ke atas _breadboard_ atau _protoboard_, kalian tetep harus menggunakan multimeter, resistor, serta _datasheet_ untuk memastikan nggak ada arus yang melewati sebuah rangkaian melewati kapasitasnya. trims.
 
-## 1. Countdown yang berbeda per lampu (31 Desember 2019)
+## _Countdown_ yang berbeda per lampu (31 Desember 2019)
 
 kali ini gua pengen bikin rangkaian digital pertama untuk lampu merah/hijau. Di sini, gua membuat rangkaian _countdown_ 50 detik (49 ke 0, lupa eh bikin dari 50 jadi beda :( ) menggunakan D flip-flop dan counter 74192 (karena saya malas membuat counter JK flipflop hehehe). Ini skematik sementara untuk rangkaian counter down 50 detik.
 
@@ -40,8 +40,7 @@ Rangkaian ini dibuat menggunakan 4 D flipflop (menggunakan Karnaugh Map 4x4) den
 
 Rangkaian ini gua bikin untuk perempatan jalan, dengan analogi arah kompas utara-selatan-timur-barat. bila lampu hijau berada pada utara dan selatan, lampu merah untuk timur dan barat. Awalnya, gua berpikir untuk memberikan jumlah waktu yang berbeda untuk tiap-tiap lampu, namun setelah gua lakukan, terdapat ketidaksinkronan perubahan lampu yang dapat menyebabkan kecelakaan.
 
-## 2. Lampu kuning menyala pada saat lampu merah/hijau menyala menuju pergantian hijau/merah.
-## 4. PEREMPATAN JALAN
+## Lampu kuning menyala pada saat lampu merah/hijau menyala menuju pergantian hijau/merah & untuk perempatan jalan
 
 Oke, lampu kuning dibuat berdasarkan 2 hal
 
@@ -51,5 +50,6 @@ Oke, lampu kuning dibuat berdasarkan 2 hal
 Kondisi yang dipenuhi di sini adalah AND, oleh karena itu haruslah dibentuk AND dari 1 dan 2. Untuk satuan, ketika counting dari 5 ke 0, akan men-_trigger_ hasil keluaran menjadi 1 dan untuk puluhan akan men-_trigger_ ketika bernilai 0000.
 
 ## TEKS KETIKA GERAK HADOOOO _WAY TOO MUCH TO DO_ BGT DI
+### 'Bonus
 
 
