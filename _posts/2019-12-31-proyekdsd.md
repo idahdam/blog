@@ -21,10 +21,14 @@ Fitur yang ingin gua tambahkan di sini adalah:
 2. Lampu kuning yang juga menyala ketika lampu hijau akan menyala dan sebaliknya,
 3. _Clock_ 1Hz (bener-bener 1Hz kondisi ideal pake _dpulse_ bawaan Proteus),
 4. Untuk perempatan jalan :)
-5. text saat lampu merah karena nggak terbatas biaya yang bisa dipakai HAHAHAHA 
+5. Teks saat lampu merah karena nggak terbatas biaya yang bisa dipakai HAHAHAHA 
+
+Sejauh ini, rangkaian terakhir (1 Desember 2019) udah sampe sini:
+
+![rangkaian full](/images/11111.jpg "anjinggg mantep jg")
 
 > Peringatan
->> Proteus ini nggak memperhitungkan arus SEBENARNYA yang melalui rangkaian ataupun IC. Kalau kalian tetap ingin mengaplikasikan proyek ini, kalian tetep harus menggunakan multimeter, resistor, serta datasheet untuk memastikan nggak ada arus yang melewati sebuah rangkaian melewati kapasitasnya. trims.
+>> Proteus ini nggak memperhitungkan arus SEBENARNYA yang melalui rangkaian ataupun IC. Kalau kalian tetap ingin mengaplikasikan proyek ini ke atas _breadboard_ atau _protoboard_, kalian tetep harus menggunakan multimeter, resistor, serta _datasheet_ untuk memastikan nggak ada arus yang melewati sebuah rangkaian melewati kapasitasnya. trims.
 
 ## 1. Countdown yang berbeda per lampu (31 Desember 2019)
 
@@ -33,6 +37,10 @@ kali ini gua pengen bikin rangkaian digital pertama untuk lampu merah/hijau. Di 
 ![rangkaian lampu hijau/merah](/images/oklol.jpg "kalo gua nulis ini kalian baca ga ya? harus hover mouse dulu woi")
 
 Rangkaian ini dibuat menggunakan 4 D flipflop (menggunakan Karnaugh Map 4x4) dengan BCD, sehingga 10-15 merupakan _don't care_. Oh ya, adanya _logic probe_ di kiri bawah itu buat ngecek pulse yang keluar tuh bener dari 0100 ke 0000 atau tidak ya, gengs. Di sini juga gua menggunakan _7 Segment Display_ dengan _Common Anode_.
+
+Rangkaian ini gua bikin untuk perempatan jalan, dengan analogi arah kompas utara-selatan-timur-barat. bila lampu hijau berada pada utara dan selatan, lampu merah untuk timur dan barat. Awalnya, gua berpikir untuk memberikan jumlah waktu yang berbeda untuk tiap-tiap lampu, namun setelah gua lakukan, terdapat ketidaksinkronan perubahan lampu yang dapat menyebabkan kecelakaan.
+
+## 2. Lampu kuning menyala pada saat lampu merah/hijau menyala menuju pergantian hijau/merah.
 
 
 
