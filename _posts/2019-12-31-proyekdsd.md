@@ -41,6 +41,15 @@ Rangkaian ini dibuat menggunakan 4 D flipflop (menggunakan Karnaugh Map 4x4) den
 Rangkaian ini gua bikin untuk perempatan jalan, dengan analogi arah kompas utara-selatan-timur-barat. bila lampu hijau berada pada utara dan selatan, lampu merah untuk timur dan barat. Awalnya, gua berpikir untuk memberikan jumlah waktu yang berbeda untuk tiap-tiap lampu, namun setelah gua lakukan, terdapat ketidaksinkronan perubahan lampu yang dapat menyebabkan kecelakaan.
 
 ## 2. Lampu kuning menyala pada saat lampu merah/hijau menyala menuju pergantian hijau/merah.
+## 4. PEREMPATAN JALAN
 
+Oke, lampu kuning dibuat berdasarkan 2 hal
+
+1. Ketika satuan bergerak dari 5 ke 0, dan
+2. Ketika puluhan berada pada posisi 0
+
+Kondisi yang dipenuhi di sini adalah AND, oleh karena itu haruslah dibentuk AND dari 1 dan 2. Untuk satuan, ketika counting dari 5 ke 0, akan men-_trigger_ hasil keluaran menjadi 1 dan untuk puluhan akan men-_trigger_ ketika bernilai 0000.
+
+## TEKS KETIKA GERAK HADOOOO _WAY TOO MUCH TO DO_ BGT DI
 
 
