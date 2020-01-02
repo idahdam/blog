@@ -47,9 +47,16 @@ Oke, lampu kuning dibuat berdasarkan 2 hal
 1. Ketika satuan bergerak dari 5 ke 0, dan
 2. Ketika puluhan berada pada posisi 0
 
-Kondisi yang dipenuhi di sini adalah AND, oleh karena itu haruslah dibentuk AND dari 1 dan 2. Untuk satuan, ketika counting dari 5 ke 0, akan men-_trigger_ hasil keluaran menjadi 1 dan untuk puluhan akan men-_trigger_ ketika bernilai 0000.
+Kondisi yang dipenuhi di sini adalah AND, oleh karena itu haruslah dibentuk AND dari 1 dan 2. Untuk satuan, ketika counting dari 5 ke 0, akan men- _trigger_ hasil keluaran menjadi 1 dan untuk puluhan akan men- _trigger_ ketika bernilai 0000.
 
 ## TEKS KETIKA GERAK HADOOOO _WAY TOO MUCH TO DO_ BGT DI
-### 'Bonus
+
+Santui, gua pengen bikin ini emang karena gua gabut aja. 
+
+2 kalimat yang ingin gua gunakan ketika lampu merah dan lampu hijau adalah:
+- Hati-hati (9 karakter)
+- Met jalan (9 karakter)
+
+Di sini, gua akan menggunakan satu hal yang jarang digunakan di projek sederhana seperti ini, yaitu 14 _Segment Display_
 
 
