@@ -57,6 +57,7 @@ Santui, gua pengen bikin ini emang karena gua gabut aja.
 - Hati-hati (9 karakter)
 - Met jalan (9 karakter)
 
-Di sini, gua akan menggunakan satu hal yang jarang digunakan di projek sederhana seperti ini, yaitu 14 _Segment Display_
+Di sini, gua akan menggunakan satu hal yang jarang digunakan di projek sederhana seperti ini, yaitu 14 _Segment Display_. Tapi karena _its too much_, gua lanjutin lain hari aja ya. Hehehe. Sekian.
+
 
 
