@@ -1,6 +1,6 @@
 ---
 layout: post
-title: proyek dsd ++++
+title: proyek dsd (mager) ++++
 ---
 
 Pada tanggal 30 Desember 2019, gua dan kelompok DSD yang terdiri Suhe, Cici, dan Hanz mempresentasikan proyek akhir kami yang merupakan lampu lalu lintas. Fitur yang dimiliki lampu lalu lintas ini adalah:
