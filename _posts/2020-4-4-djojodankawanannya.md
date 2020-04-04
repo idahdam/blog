@@ -7,6 +7,9 @@ Jadi guys, gua anak jurusan teknik komputer. Di sini, kita belajar C. Belakangan
 
 Sekarang tanggal 4 April 2020 dan gua baru aja ngumpulin tugas untuk bikin semacam game. Buat yang mau tau lebih jelasnya, bisa cek di sini (creds to aslab digital laboratory DTE FTUI).
 
-![rangkaian full](/images/Tutam modul 7 (1).pdf "CREDS TO DIGILAB")
+![background masalah](/images/djojo1.jpg "CREDS TO DIGILAB")
+![tugas_masalah](/images/djojo2.jpg "FTUI")
+
+Dibuat pake bahasa C. 
 
 
