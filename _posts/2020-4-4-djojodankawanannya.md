@@ -12,7 +12,7 @@ Sekarang tanggal 4 April 2020 dan gua baru aja ngumpulin tugas untuk bikin semac
 
 Dibuat pake bahasa C. Yaudah, setelah ngeliat itu semua, gua mulai nyoba bikin di vscode dan kelar. 
 
-kodenya bisa dilihat di https://github.com/idahdam/c/blob/master/proj1.c atau buka github gua repo C/proj1.c.
+kodenya bisa dilihat di ![link]https://github.com/idahdam/c/blob/master/proj1.c atau buka github gua repo C/proj1.c.
 
 Setelah gua pikir-pikir, ini mirip dengan game (karena emang game). Kayanya kalau gua bikin ada GUI-nya, bakalan terlihat keren daripada gabut nonton yutub doang. Berhubung C GUInya... agak bikin mager,gua memutuskan untuk membuatnya di Python. Awalnya pengen pake cpp tapi im still shit so yeaaa boy.
 
