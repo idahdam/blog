@@ -1,6 +1,6 @@
 ---
 layout: post
-title: djojo dan pemerintah (blm kelar, improvements++++ needed)
+title: djojo dan pemerintah (blm kelar, improvements needed)
 ---
 
 Jadi guys, gua anak jurusan teknik komputer. Di sini, kita belajar C. Belakangan, tugasnya lumayan bikin gua laper.
