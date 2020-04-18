@@ -18,4 +18,5 @@ https://github.com/idahdam/c/blob/master/proj1.c atau buka github gua repo C/pro
 
 Setelah gua pikir-pikir, ini mirip dengan game (karena emang game). Kayanya kalau gua bikin ada GUI-nya, bakalan terlihat keren daripada gabut nonton yutub doang. Berhubung C GUInya... agak bikin mager,gua memutuskan untuk membuatnya di Python. Awalnya pengen pake cpp tapi im still shit so yeaaa boy.
 
+Intinya, gua cuma pindahin ke dalam bentuk python, bisa pilih intinya ingin pake pemerintah/djojo, ada gambarnya biar nggak keliatan bosen juga hehehe biar ga cuma text. Yaudah gitu aja gais.
 
