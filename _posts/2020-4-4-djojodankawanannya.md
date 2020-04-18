@@ -20,3 +20,6 @@ Setelah gua pikir-pikir, ini mirip dengan game (karena emang game). Kayanya kala
 
 Intinya, gua cuma pindahin ke dalam bentuk python, bisa pilih intinya ingin pake pemerintah/djojo, ada gambarnya biar nggak keliatan bosen juga hehehe biar ga cuma text. Yaudah gitu aja gais.
 
+Buat yang pengin liat hasilnya gimana, bisa copy link ini https://github.com/idahdam/python/tree/master/1.%20Djojo%20dan%20Pemerintah atau sila liat ke repo python gua bagian 1. Djojo dan Pemerintah. 
+
+Ciao bella
