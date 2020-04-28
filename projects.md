@@ -5,4 +5,4 @@ permalink: /projects/
 ---
 Bagian ini adalah proyek, baik pribadi ataupun tidak, dari hadi:
 
-1. Python
+Kosong dulu deh mager.
