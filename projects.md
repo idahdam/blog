@@ -5,4 +5,14 @@ permalink: /projects/
 ---
 Bagian ini adalah proyek, baik pribadi ataupun tidak, dari hadi:
 
-Kosong dulu deh mager.
+### Python
+
+GUI
+[snake 1.0 pygame](https://github.com/idahdam/snake-game-py)
+[space ivanders no menu pygame](https://github.com/idahdam/spaceivanders-no-menu)
+
+CDI
+[djojo dan pemerintah](https://github.com/idahdam/djojo-pemerintah-cdi)
+
+
+
