@@ -3,14 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+Bagian ini adalah proyek, baik pribadi ataupun tidak, dari hadi:
 
-Hai semua! Kenalin, Hadi, 1999. Blog ini akan berisi projek yang ke depannya akan dilakukan hehehe
-
-Sebenernya nggak tau mau nulis apa lagi hehe
-
-### Kontak aing
-
-[instagram](https://instagram.com/idahdam)
-dan
-[medium](medium.com/@topengfavoritku)
-dan yang ada di bawah tuh
+1. Python
