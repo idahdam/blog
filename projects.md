@@ -5,12 +5,12 @@ permalink: /projects/
 ---
 Bagian ini adalah proyek, baik pribadi ataupun tidak, dari hadi:
 
-## On-going
+* ## On-going
 <hr>
 [gamedev, codename: TR](https://idahdam.github.io/code-tr)
 
-## Finished (probably...)
-<hr>
+* ## Finished (probably...)
+
 
 ### Python
 
